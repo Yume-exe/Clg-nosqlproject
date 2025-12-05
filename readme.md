@@ -38,7 +38,8 @@ This app lets you add income/expense records, view them instantly, and see your 
 
 ## Screenshots
 
-![Uploading image.png…]()
+<img width="1175" height="870" alt="image" src="https://github.com/user-attachments/assets/d9068767-4d52-4f6d-8ef3-d45b9225eb93" />
+
 
 
 ---
